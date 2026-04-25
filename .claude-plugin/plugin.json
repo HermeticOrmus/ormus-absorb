@@ -1,0 +1,29 @@
+{
+  "name": "ormus-absorb",
+  "version": "1.0.0",
+  "description": "Distill what a Claude session taught you into persistent memory. The learning ritual.",
+  "author": "Diego Bodart / Ormus.Solutions",
+  "license": "MIT",
+  "homepage": "https://github.com/HermeticOrmus/ormus-absorb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HermeticOrmus/ormus-absorb.git"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "anthropic",
+    "ai-agents",
+    "skills",
+    "memory",
+    "distillation",
+    "learning",
+    "ormus"
+  ],
+  "skills": [
+    {
+      "name": "absorb",
+      "path": "SKILL.md"
+    }
+  ]
+}
