@@ -94,8 +94,9 @@ The naming follows the alchemical four-stage process — fitting, since the skil
 ## Pairs with
 
 - **[ormus-handoff](https://github.com/HermeticOrmus/ormus-handoff)** — captures task state for the next session. /absorb captures understanding. Run both at session end.
-- **[ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup)** *(coming soon)* — restores context from a HANDOFF file. Future sessions also load whatever /absorb persisted.
+- **[ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup)** — restores context from a HANDOFF file. Future sessions also load whatever /absorb persisted.
 - **[ormus-explore](https://github.com/HermeticOrmus/ormus-explore)** — token-efficient AST-based code search.
+- **[ormus-vibe-proof](https://github.com/HermeticOrmus/ormus-vibe-proof)** — security hardening for vibe-coded full-stack apps.
 - **[ormus-meta-prompting](https://github.com/HermeticOrmus/ormus-meta-prompting)** — categorical foundations for AI prompt engineering.
 
 Together they form the **ormus session lifecycle** — composable Claude Code skills for doing serious work across days, machines, and context resets.
@@ -106,4 +107,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Origin
 
-Distilled from real long-running Claude Code engagements where every session ended with valuable understanding evaporating. The classification taxonomy (intent / direction / domain / decision / vision / person / feedback / reference / infrastructure) was refined empirically — those nine types covered every "I wish I had written this down" moment from a year of work.
+Distilled from real long-running Claude Code engagements where every session ended with valuable understanding evaporating. The nine-type classification taxonomy (intent / direction / domain / decision / vision / person / feedback / reference / infrastructure) emerged empirically — those types covered every "I wish I had written this down" moment.
