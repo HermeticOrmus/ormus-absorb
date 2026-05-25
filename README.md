@@ -9,9 +9,26 @@
 
 ---
 
-# ormus-absorb
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="ormus-absorb" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> Distill what a Claude session taught you into persistent memory. The learning ritual.
+<h1 align="center">ormus-absorb</h1>
+
+<p align="center">
+  <em>Distill what a Claude session taught you into persistent memory. The learning ritual.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/ormus-absorb/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/ormus-absorb?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-absorb/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/ormus-absorb?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-absorb/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/ormus-absorb?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **Distill what a Claude session taught you into persistent memory. The learning ritual.**
 
 A Claude Code skill that extracts the non-obvious knowledge from a session — intent, vision, domain rules, architectural decisions, stakeholder context — and writes it to a structured memory store that future sessions can read.
 
