@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://ormus.solutions/mascot/golden_swan.gif" alt="ormus-absorb" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_lotus.gif" alt="ormus-absorb" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">ormus-absorb</h1>
